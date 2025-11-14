@@ -8,7 +8,7 @@
                 <p class="mt-3 fs-5 text-muted">
                     Sistem untuk mengelola data alat, jadwal kalibrasi, dan riwayat kalibrasi.
                 </p>
-
+                <!--ganti kata-->
                 <a href="list_alat.php" class="btn btn-primary btn-lg mt-3">Lihat Daftar Alat</a>
             </div>
         </div>
