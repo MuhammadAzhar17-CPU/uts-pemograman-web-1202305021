@@ -4,7 +4,7 @@ include 'config.php';
 
 $id = $_GET['id'];
 $data = mysqli_fetch_assoc(mysqli_query($conn, "SELECT * FROM alat WHERE id=$id"));
-
+//typo
 if (isset($_POST['update'])) {
     $nama = $_POST['nama'];
     $serial = $_POST['serial'];
