@@ -9,7 +9,7 @@ $result = mysqli_query($conn, "SELECT * FROM alat ORDER BY id DESC");
     <div class="card-header bg-primary text-white">
         <h4 class="mb-0">Daftar Alat</h4>
     </div>
-
+<!--ganti nama-->
     <div class="card-body">
         <a href="tambah_alat.php" class="btn btn-success mb-3">+ Tambah Alat</a>
 
